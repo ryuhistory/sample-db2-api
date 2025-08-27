@@ -8,7 +8,7 @@ projects:
       checkoutFrom:
         revision: main
       remotes:
-        origin: 'https://github.com/zosconnect/sample-db2-api.git'
+        origin: 'https://github.com/ryuhistory/sample-db2-api'
     name: employees-api
 components:
     - name: tools
