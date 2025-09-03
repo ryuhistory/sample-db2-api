@@ -1,7 +1,8 @@
 [user]
-	email = ryuhistory@gmail.com
-	name = rydu
+	email = you@example.com
+	name = Your Name
 [safe]
+	directory = /workspace/project
 	directory = /workspace/project
 	directory = /workspace/project
 	directory = /workspace/project
